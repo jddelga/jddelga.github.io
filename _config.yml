@@ -97,13 +97,13 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/Julian_Headshot.jpg"
-  bio              : "Computer Science @ Vanderbilt University"
+  avatar           : "assets/img/Julian_Headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "MAJOR @ Vanderbilt University" # short author bio
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/delgadjd"
+      url: "https://github.com/delgadjd" # full URL
 
 
 # Site Footer
