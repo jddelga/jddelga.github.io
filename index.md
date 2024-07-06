@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "is an engineer with a passion for mentorship and bringing ideas to life. He specializes in microcontrollers and FFF printing."
 feature_row:
-  - image_path: assets/img/fdm-printer.png
+  - image_path: assets/img/fdm-printer.jpeg
     alt: "FDM Printer"
     title: "FDM Printer"
     excerpt: "Showcasing the capabilities of Fused Deposition Modeling (FDM) for creating durable and complex parts."
