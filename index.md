@@ -22,6 +22,10 @@ feature_row:
     alt: "Laser Cutter"
     title: "Laser Cutter"
     excerpt: "Demonstrating the versatility and precision of laser cutting for both prototyping and production."
+- image_path: assets/img/powertools.jpg
+    alt: "Power Tools"
+    title: "Power Tools"
+    excerpt: "Explore the world of power tools and their essential role in crafting, construction, and DIY projects."
 ---
 
 {% include feature_row %}
